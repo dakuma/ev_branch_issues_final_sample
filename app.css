@@ -1,4 +1,5 @@
 
+<<<<<<< 2-add-site-styling
 p {
   font-size: 1.4em;
   margin: 15px 0;
@@ -9,4 +10,16 @@ body {
   background: #333;
   color: #ccc;
   font-size: 2em;
+=======
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body {
+   background: #333;
+   color: #eee;
+   font-size: 2em;
+>>>>>>> main
 }
